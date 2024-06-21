@@ -2,4 +2,7 @@
 <br><br>
 Demonstration:
 <br><br>
-https://github.com/Swapnil-J-Patil/AndroidGameBattleforceGalacrtica/assets/129786110/3015d56e-ab9b-4c0d-90a3-bfce4563381f
+
+https://github.com/Swapnil-J-Patil/AndroidGameBattleforceGalacrtica/assets/129786110/df7b61f2-2d21-4088-9aff-26fdcd3cc1a9
+
+
