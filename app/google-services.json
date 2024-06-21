@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636421134223",
+    "project_id": "elearningapp-d8c38",
+    "storage_bucket": "elearningapp-d8c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636421134223:android:7afaa5edda0d6df5d95dfa",
+        "android_client_info": {
+          "package_name": "com.swapnil.elearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDumFQVmInV9HkqKvOijQaxl48BDBbNJcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
